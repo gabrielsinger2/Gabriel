@@ -5,7 +5,7 @@
 We are interested here in the numerical side of the isoperimetric problem for polygons. We deal with the particular case of the triangle, the quadrilateral, and the pentagon. 
 The codes are written in Python and available in the file "Python".
 
-markdown   ![Gradient Descent Animation](assets/gradient_descent.gif)  
+![Gradient Descent Animation](assets/gradient_descent.gif)  
 
 The main theoretical result is:
 

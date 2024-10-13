@@ -6,7 +6,7 @@ We are interested here in the numerical side of the isoperimetric problem for po
 The codes are written in Python and available in the file "Python".
 
 
-![Gradient Descent Animation](gradient_descent.gif)  
+![Gradient Descent Animation](gradient_descent(1).gif)  
 
 The main theoretical result is:
 
